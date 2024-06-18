@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miko089
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ~python~ ~rust~ ~c++~ go
+- 🌱 I’m currently learning ~python~ ~rust~ ~c++~ ~go~ everything
 - 💞️ I’m looking to collaborate on smth
 
 <!---
